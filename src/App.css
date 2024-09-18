@@ -1,0 +1,12 @@
+.btn-active{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn-inactive{
+    background-color: red;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
